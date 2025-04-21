@@ -1,6 +1,6 @@
 # EX-1  Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
 # NAME: THARUN D
-# REGISTER NO:212223240167
+# REGISTER NO: 212223240167
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
